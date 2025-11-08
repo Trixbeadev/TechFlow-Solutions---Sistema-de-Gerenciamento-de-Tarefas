@@ -1,2 +1,3 @@
 # TechFlow Solutions — Sistema de Gerenciamento de Tarefas
 ...
+## Mudança de escopo: adicionar campo de prazo nas tarefas
