@@ -1,0 +1,16 @@
+Etapa 1: Estrutura base do projeto
+Etapa 2: Configuração inicial do ambiente
+Etapa 3: Criação do modelo de dados de tarefas
+Etapa 4: Implementação do CRUD de tarefas
+Etapa 5: Adição de autenticação de usuários
+Etapa 6: Criação de templates HTML
+Etapa 7: Integração frontend e backend
+Etapa 8: Adicionar filtros e ordenação de tarefas
+Etapa 9: Implementar testes unitários básicos
+Etapa 10: Configuração de pipeline no GitHub Actions
+Etapa 11: Atualizar README com instruções
+Etapa 12: Simular mudança de escopo
+Etapa 13: Atualizar documentação após mudança
+Etapa 14: Revisão final e comentários
+Etapa 15: Preparar entrega final do projeto
+Etapa 1: Estrutura base do projeto
