@@ -2,3 +2,4 @@ from flask import Flask\napp = Flask(__name__)\n\n@app.route('/')\ndef index():\
 # Rota Flask para criar tarefas
 # Rota Flask para listar tarefas
 # Rota Flask para editar tarefas
+# Rota Flask para excluir tarefas
